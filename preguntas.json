@@ -1,0 +1,1809 @@
+[
+    {
+        "id": 0,
+        "title": "1. ¿Un niño o niña con un peso entre 29 a 40 KG , debiera ir en butaca ?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Falso"
+            },
+            {
+                "id": 2,
+                "text": "B) Verdadero"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 1,
+        "title": "2. El líquido refrigerante pasa por canales alrededor del motor hacia:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) El alternador."
+            },
+            {
+                "id": 2,
+                "text": "B) El radiador."
+            },
+            {
+                "id": 3,
+                "text": "C) El carburador."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 2,
+        "title": "3. ¿Cuál de los siguientes factores no afecta a todas las personas de la misma manera cuando se trata de la conducción?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) El tipo de vehículo que se conduce."
+            },
+            {
+                "id": 2,
+                "text": "B) La velocidad a la que se conduce."
+            },
+            {
+                "id": 3,
+                "text": "C) La cantidad de horas de sueño y su calidad."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 3,
+        "title": "4. ¿Cuál es mejor remedio contra la fatiga y el sueño?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) El agua"
+            },
+            {
+                "id": 2,
+                "text": "B) El descanso"
+            },
+            {
+                "id": 3,
+                "text": "C) El aire"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 4,
+        "title": "5. ¿Cuál es la cualidad que deben tener todos los conductores para que colaboren con la convivencia vial?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Solo conocer la normativa vigente"
+            },
+            {
+                "id": 2,
+                "text": "B) Velar por uno mismo, sin interesarse por los demás"
+            },
+            {
+                "id": 3,
+                "text": "C) Tener un nivel adecuado de Educación Vial"
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 5,
+        "title": "6. ¿Qué efecto pueden tener algunos medicamentos en la capacidad de conducción?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) No tienen ningún efecto sobre la atención o el tiempo de reacción."
+            },
+            {
+                "id": 2,
+                "text": "B) Disminuyen la atención y aumentan el tiempo de reacción."
+            },
+            {
+                "id": 3,
+                "text": "C) Mejoran la atención y reducen el tiempo de reacción."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 6,
+        "title": "7. ¿Cuál es la forma más correcta de llevar en un automóvil a un niño menor de 4 años?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) En asiento trasero con cinturón de seguridad"
+            },
+            {
+                "id": 2,
+                "text": "B) En los brazos de un adulto"
+            },
+            {
+                "id": 3,
+                "text": "C) En asiento trasero y en silla de seguridad"
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 7,
+        "title": "8. ¿Qué tipo de alteraciones en las sensaciones y percepciones puede experimentar una persona fatigada al volante?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Aumenta la sensibilidad auditiva y la claridad visual."
+            },
+            {
+                "id": 2,
+                "text": "B) Mejora la percepción de los sonidos del entorno."
+            },
+            {
+                "id": 3,
+                "text": "C) Disminuye la sensibilidad auditiva y puede experimentar visión borrosa."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 8,
+        "title": "9. Su vehículo se encuentra de frente con los peatones y el vehículo gris, ¿Qué hace usted ante esta situación?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Hace señales de luces al vehículo que viene en contra para que espere a que usted haya pasado."
+            },
+            {
+                "id": 2,
+                "text": "B) Hace señales a los peatones para que se alejen de la calzada."
+            },
+            {
+                "id": 3,
+                "text": "C) Reduce su velocidad y continúa conduciendo."
+            },
+            {
+                "id": 4,
+                "text": "D) Espera y deja pasar primero al vehículo que viene en contra, y luego usted continúa y pasa a los peatones."
+            }
+        ],
+        "correctAnswer": [
+            4
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 9,
+        "title": "10. ¿Qué es un carro de bomberos?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Además cuenta de los equipos necesarios para el rescate de personas y el trabajo en incendios."
+            },
+            {
+                "id": 2,
+                "text": "B) Cuenta con una bomba impulsora y un estanque de agua,"
+            },
+            {
+                "id": 3,
+                "text": "C) Es un vehículo de emergencia"
+            }
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 10,
+        "title": "11. ¿Qué es un vehículo de emergencia?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Se trata de un automóvil de uso público destinado al transporte de personas."
+            },
+            {
+                "id": 2,
+                "text": "B) Se trata de un vehículo a motor, destinado al transporte público y remunerado de personas. Se exceptúan de esta clasificación aquellos taxis que no efectúen servicios colectivos."
+            },
+            {
+                "id": 3,
+                "text": "C) Este tipo de vehículos podrán pertenecer al Cuerpo de Carabineros de Chile, Cuerpo de Bomberos y también como ambulancias de instituciones fiscales. También se considerarán así a las ambulancias de establecimientos particulares que cuenten con el permiso otorgado por la autoridad que sea competente."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 11,
+        "title": "12. ¿Cuán mayor puede ser el riesgo de accidente para un conductor que presenta una tasa de alcohol en la sangre entre 0,6 y 0,8 gr/l?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) 3 veces mayor"
+            },
+            {
+                "id": 2,
+                "text": "B) 5 veces mayor"
+            },
+            {
+                "id": 3,
+                "text": "C) 2 veces mayor"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 12,
+        "title": "13. Camión: Es aquel vehículo de carga que se destina exclusivamente al transporte de carga sobre una plataforma fijada al chasis.",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Falso"
+            },
+            {
+                "id": 2,
+                "text": "B) Verdadero"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 13,
+        "title": "14. ¿Cuál de las siguientes afirmaciones es VERDADERA con respecto a los siniestros de transito en Chile?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) La mayor cantidad de siniestros de tránsito se produce en áreas rurales, pero la mayor cantidad de muertos en accidentes se produce en las ciudades"
+            },
+            {
+                "id": 2,
+                "text": "B) La mayor cantidad de siniestros de tránsito se produce en las ciudades, pero la mayor cantidad de muertes en accidentes se produce en carreteras y caminos"
+            },
+            {
+                "id": 3,
+                "text": "C) La mayor cantidad de siniestros de tránsito y de muertes debidas a estos accidentes se produce en las ciudades"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 14,
+        "title": "15. En condiciones normales un vehículo podrá ser conducido marcha atrás sólo:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) 30 metros."
+            },
+            {
+                "id": 2,
+                "text": "B) 50 metros."
+            },
+            {
+                "id": 3,
+                "text": "C) Para mantener la libre circulación o para incorporarse a ella o estacionar un vehículo."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 15,
+        "title": "16. Las luces de niebla traseras son de gran importancia para ser visto por quienes circulan atrás, pero úselas sólo:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Cuando exista solo niebla en la noche"
+            },
+            {
+                "id": 2,
+                "text": "B) Solo cuando la niebla es leve"
+            },
+            {
+                "id": 3,
+                "text": "C) Cuando la niebla es espesa"
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 16,
+        "title": "17. ¿Cómo afecta la fatiga a la toma de decisiones de una persona conductora?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Mejora la cantidad y calidad de la información que se recoge del entorno."
+            },
+            {
+                "id": 2,
+                "text": "B) Disminuye la cantidad y calidad de la información recogida, afecta el razonamiento y aumenta el tiempo de reacción."
+            },
+            {
+                "id": 3,
+                "text": "C) Facilita la toma de decisiones seguras y adecuadas."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 17,
+        "title": "18. Autobús o Bus: Es un vehículo a motor equipado y diseñado para el transporte de pasajeros y su equipaje. Tendrá 18 o más asientos incluyendo el del conductor.",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Falso"
+            },
+            {
+                "id": 2,
+                "text": "B) Verdadero"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 18,
+        "title": "19. ¿Qué es un automóvil?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Es un vehículo a motor que debido a su equipo y diseño, está destinado al transporte de pasajeros y su equipaje principalmente. Podrá arrastrar un remolque."
+            },
+            {
+                "id": 2,
+                "text": "B) Es un vehículo a motor equipado y diseñado para el transporte de pasajeros y su equipaje. Tendrá 18 o más asientos incluyendo el del conductor."
+            },
+            {
+                "id": 3,
+                "text": "C) Es un vehículo de un solo piso, y que cuenta con entre 12 y 17 asientos incluido el del conductor."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 19,
+        "title": "20. ¿Qué es un Vehículo?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Medio de transporte que circula a gran velocidad solamente"
+            },
+            {
+                "id": 2,
+                "text": "B) Medio de transporte compuesto por una serie de vagones acoplados entre sí y remolcados por una locomotora,"
+            },
+            {
+                "id": 3,
+                "text": "C) Medio de transporte mediante el cual todas las personas u objetos podrán ser transportados por una vía."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 20,
+        "title": "21. Luz de estacionamiento: Se trata de una luz continua o intermitente que permitirá identificar nuestro vehículo cuando esté estacionado.",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Falso"
+            },
+            {
+                "id": 2,
+                "text": "B) Verdadero"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 21,
+        "title": "22. Usted conduce a 90 km/h cuando la vía es obstruida sorpresivamente por un camión que está virando a la izquierda a muy poca distancia. ¿Qué es lo primero que hace usted?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Disminuye levemente la velocidad."
+            },
+            {
+                "id": 2,
+                "text": "B) Hace señales de luces y toca la bocina."
+            },
+            {
+                "id": 3,
+                "text": "C) Frena firmemente."
+            },
+            {
+                "id": 4,
+                "text": "D) Se desplaza a la pista de la izquierda."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 22,
+        "title": "23. En esta perspectiva lineal, se nos hace creer que:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Se está más lejos del lado derecho"
+            },
+            {
+                "id": 2,
+                "text": "B) Se va en subida."
+            },
+            {
+                "id": 3,
+                "text": "C) Donde convergen las líneas está más lejano."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 23,
+        "title": "24. ¿Puede usted conducir sin licencia de conducir otorgada?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Sí, en lugares de poco tránsito en las vías públicas de la ciudad."
+            },
+            {
+                "id": 2,
+                "text": "B) En ninguno de los casos mencionados."
+            },
+            {
+                "id": 3,
+                "text": "C) Sí, en caminos públicos rurales durante el día."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 24,
+        "title": "25. ¿Qué sucede con la fatiga al volante cuando se conduce durante un período prolongado de tiempo?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) La fatiga no afecta a la conducción, sin importar el tiempo que conduzcas."
+            },
+            {
+                "id": 2,
+                "text": "B) La fatiga disminuye gradualmente mientras conduces."
+            },
+            {
+                "id": 3,
+                "text": "C) La fatiga inevitablemente aparecerá, y sus síntomas se harán evidentes tarde o temprano."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 25,
+        "title": "26. En un automóvil está prohibido que en los asientos delanteros viajen niños menores de:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) 12 años"
+            },
+            {
+                "id": 2,
+                "text": "B) No, no hay prohibiciones al respecto."
+            },
+            {
+                "id": 3,
+                "text": "C) 8 años"
+            },
+            {
+                "id": 4,
+                "text": "D) 10 años"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 26,
+        "title": "27. ¿Cuáles son los momentos del día en los que es más probable que aparezca la somnolencia al conducir, incluso si has dormido lo suficiente?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Durante la noche, entre las 20 y 22 horas"
+            },
+            {
+                "id": 2,
+                "text": "B) En la mañana, entre las 8 y 10 horas"
+            },
+            {
+                "id": 3,
+                "text": "C) En la madrugada, entre las 3 y 5 horas, y en la tarde, entre las 14 y 16 horas"
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 27,
+        "title": "28. ¿En qué caso un conductor NO debería detenerse cuando el semáforo se pone en amarillo?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Cuando la luz cambia sorpresivamente"
+            },
+            {
+                "id": 2,
+                "text": "B) Cuando ya ha ingresado al cruce"
+            },
+            {
+                "id": 3,
+                "text": "C) Cuando va demasiado rápido"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 28,
+        "title": "29. ¿Cuáles de las siguientes circunstancias favorecen la aparición de la fatiga al volante?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Conducir en un día soleado y sin tráfico."
+            },
+            {
+                "id": 2,
+                "text": "B) Conducir por un camino conocido y en condiciones óptimas de clima."
+            },
+            {
+                "id": 3,
+                "text": "C) Conducir por una vía con mucho tráfico y en mal estado, o en condiciones climatológicas adversas."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 29,
+        "title": "30. ¿Cuál de las siguientes afirmaciones es FALSA?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Un sistema de retención infantil mal instalado no brinda la seguridad necesaria para un viaje de un niño."
+            },
+            {
+                "id": 2,
+                "text": "B) Es responsabilidad únicamente de los padres y no del conductor, la correcta utilización del sistema de retención infantil."
+            },
+            {
+                "id": 3,
+                "text": "C) Esta prohibido transportar menores de 12 años de edad en los asiento delanteros, excepto en vehículo de cabina simple."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 30,
+        "title": "31. ¿Qué debes hacer antes de consumir medicamentos para asegurarte de que no afecten tu capacidad de conducción?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Consultar con el médico sobre los posibles riesgos para la conducción."
+            },
+            {
+                "id": 2,
+                "text": "B) Tomar el medicamento y observar si sientes algún efecto secundario."
+            },
+            {
+                "id": 3,
+                "text": "C) Evitar conducir durante 30 minutos después de consumir cualquier medicamento."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 31,
+        "title": "32. En Chile, los siniestros de tránsito afectan especialmente a:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Las mujeres acompañadas por niños"
+            },
+            {
+                "id": 2,
+                "text": "B) Los ancianos mayores de 65 años."
+            },
+            {
+                "id": 3,
+                "text": "C) Las mujeres mayores 40."
+            },
+            {
+                "id": 4,
+                "text": "D) Los Jóvenes entre 15 y 29 años."
+            }
+        ],
+        "correctAnswer": [
+            4
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 32,
+        "title": "33. Si el alternador del vehículo no carga, ¿Qué pasa?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Se descarga la batería."
+            },
+            {
+                "id": 2,
+                "text": "B) El motor deja de funcionar."
+            },
+            {
+                "id": 3,
+                "text": "C) Se produce un desgaste rápido en los electrodos de las bujías."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 33,
+        "title": "34. Para que las bandas de los neumáticos se desgasten en forma pareja se debe efectuar:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Una rotación periódica."
+            },
+            {
+                "id": 2,
+                "text": "B) Un recauchado cada 10.000 kilómetros."
+            },
+            {
+                "id": 3,
+                "text": "C) Un redibujado cada 15.000 kilómetros."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 34,
+        "title": "35. ¿Qué precaución se debe tomar al cargar un remolque que será arrastrado con un automóvil?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Que la mayor parte del peso se concentre en la parte trasera."
+            },
+            {
+                "id": 2,
+                "text": "B) Que la mayor parte del peso se concentre en la parte delantera."
+            },
+            {
+                "id": 3,
+                "text": "C) Que el peso sea distribuido en forma pareja."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 35,
+        "title": "36. La falta de tensión de la correa del ventilador produce:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Desgaste de balatas o pastillas."
+            },
+            {
+                "id": 2,
+                "text": "B) Pérdida de potencia del motor."
+            },
+            {
+                "id": 3,
+                "text": "C) Recalentamiento del motor."
+            },
+            {
+                "id": 4,
+                "text": "D) Deterioro de la batería."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 36,
+        "title": "37. La forma más segura de viajar en un automóvil para un niño menor de 2 años es:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Solo en el asiento trasero y con cinturón de seguridad."
+            },
+            {
+                "id": 2,
+                "text": "B) En una silla de seguridad, en el asiento trasero y mirando hacia atrás."
+            },
+            {
+                "id": 3,
+                "text": "C) En brazos de un adulto."
+            },
+            {
+                "id": 4,
+                "text": "D) Solo en el asiento delantero y con cinturón de seguridad."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 37,
+        "title": "38. ¿Una persona puede conducir un vehículo bajo la influencia del alcohol?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Nunca."
+            },
+            {
+                "id": 2,
+                "text": "B) Sólo de día."
+            },
+            {
+                "id": 3,
+                "text": "C) Solo si puede conducir"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 38,
+        "title": "39. Cuál de estas afirmaciones es falsa:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Los conductores más viejos tienen menos accidentes."
+            },
+            {
+                "id": 2,
+                "text": "B) La baja velocidad es más importante que otras variables en un accidente."
+            },
+            {
+                "id": 3,
+                "text": "C) Los conductores jóvenes reaccionan en cualquier situación con mayor rapidez."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 39,
+        "title": "40. El sistema de airbag, sólo será eficaz si se usa en conjunto con:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) El cinturón de seguridad"
+            },
+            {
+                "id": 2,
+                "text": "B) Un buen sistema de activación"
+            },
+            {
+                "id": 3,
+                "text": "C) Un buen sistema de sensores"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 40,
+        "title": "1700. A menos que esté permitida otra forma de estacionamiento, usted debe hacerlo en forma paralela a la cuneta :",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) A no MÁS de 30 cm y dejando una distancia mínima de 60 cm respecto a otros vehículos estacionados"
+            },
+            {
+                "id": 2,
+                "text": "B) A no menos de 40 cm y dejando una distancia mínima de 60 cm respecto a otros vehículos estacionados"
+            },
+            {
+                "id": 3,
+                "text": "C) A no MENOS de 30 cm y dejando una distancia máxima de 60 cm respecto a otros vehículos estacionados"
+            },
+            {
+                "id": 4,
+                "text": "D) A no menos de 50 cm y dejando una distancia mínima de 60 cm respecto a otros vehículos estacionados"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 41,
+        "title": "1701. Respecto al sistema de frenos; el servo funciona sólo con el motor en marcha, por eso hay que tener cuidado al ser remolcado o si el motor se detiene repentinamente porque:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) El freno será más sensible y frenara bruscamente"
+            },
+            {
+                "id": 2,
+                "text": "B) No hay que tener especial cuidado porque el freno funciona igual"
+            },
+            {
+                "id": 3,
+                "text": "C) Perderá la fuerza por lo que deberá presionar mucho más fuerte el pedal para lograr el frenado"
+            },
+            {
+                "id": 4,
+                "text": "D) Aumentará al doble la fuerza de frenado debiendo frenar suavemente"
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 42,
+        "title": "1702. ¿Cuáles son algunas de las enfermedades con mayor riesgo de afectar nuestras capacidades para conducir un vehículo?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Enfermedades del sistema inmunológico y alergias leves."
+            },
+            {
+                "id": 2,
+                "text": "B) Enfermedades de la piel y problemas digestivos."
+            },
+            {
+                "id": 3,
+                "text": "C) Enfermedades cardíacas, respiratorias, neurológicas y trastornos mentales."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 43,
+        "title": "1703. ¿Qué relación existe entre la fatiga y la somnolencia al volante?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) La fatiga puede generar somnolencia, y la somnolencia puede intensificar la fatiga. (Respuesta correcta"
+            },
+            {
+                "id": 2,
+                "text": "B) La fatiga solo aparece después de que la persona ha estado conduciendo por más de 10 horas."
+            },
+            {
+                "id": 3,
+                "text": "C) La fatiga y la somnolencia son dos fenómenos independientes que no se influyen entre sí."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 44,
+        "title": "1704. ¿Cómo afecta la fatiga a la capacidad de mantener la atención en el entorno al conducir?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) La fatiga dificulta la concentración en el tránsito y favorece las distracciones."
+            },
+            {
+                "id": 2,
+                "text": "B) La fatiga mejora la concentración en el tránsito."
+            },
+            {
+                "id": 3,
+                "text": "C) La fatiga no tiene ningún efecto en la capacidad de mantener la atención."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 45,
+        "title": "1705. Usted va tirando un remolque pequeño que comienza a zigzaguear. ¿Qué hace usted?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Suelta ligeramente el volante y espera que el problema se corrija solo."
+            },
+            {
+                "id": 2,
+                "text": "B) Aumenta su velocidad tan pronto sea posible."
+            },
+            {
+                "id": 3,
+                "text": "C) Frena a fondo y mantiene la presión sobre el pedal de freno."
+            },
+            {
+                "id": 4,
+                "text": "D) Retira suavemente el pie del acelerador y disminuye la velocidad."
+            }
+        ],
+        "correctAnswer": [
+            4
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 46,
+        "title": "1706. Al subir una cuesta en un cambio de velocidad no adecuado se produce:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Exceso de consumo de combustible."
+            },
+            {
+                "id": 2,
+                "text": "B) Falla en la caja de cambios."
+            },
+            {
+                "id": 3,
+                "text": "C) Falla en el sistema de frenos."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 47,
+        "title": "1707. Por una carretera, usted circula detrás de otro vehículo. Si la calzada está mojada, ¿qué espacio de tiempo mínimo mantendrá usted respecto del vehículo que va adelante?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) El equivalente a lo que recorre en 2 segundos."
+            },
+            {
+                "id": 2,
+                "text": "B) Como máximo, el equivalente a lo que recorre en 3 segundos."
+            },
+            {
+                "id": 3,
+                "text": "C) A lo menos, el equivalente a lo que recorre en 4 segundos."
+            },
+            {
+                "id": 4,
+                "text": "D) El equivalente a lo que recorre en 1 segundo."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 48,
+        "title": "1708. Si la luz de control de los intermitentes destella en forma más rápida que lo habitual:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Se rompió el alternador."
+            },
+            {
+                "id": 2,
+                "text": "B) Es probable que se haya quemado una ampolleta."
+            },
+            {
+                "id": 3,
+                "text": "C) Se quemó un fusible."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 49,
+        "title": "1709. Un conductor está buscando un lugar para estacionarse durante un corto periodo de tiempo y observa un espacio vacío que está achurado con líneas oblicuas, ¿Qué debe hacer el conductor?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Continuar buscando un lugar para estacionarse, ya que está prohibido hacerlo en la zona achurada"
+            },
+            {
+                "id": 2,
+                "text": "B) Estacionarse en el espacio achurado, ya que ésta es una zona destinada especialmente para estacionar"
+            },
+            {
+                "id": 3,
+                "text": "C) Estacionarse en la zona achurada ya que está permitido hacerlo sobre ella por un máximo de 30 minutos"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 50,
+        "title": "1710. Que debería hacer el conductor del auto que se observa en la imagen",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Retroceder para salir del cruce"
+            },
+            {
+                "id": 2,
+                "text": "B) Continuar con precaución"
+            },
+            {
+                "id": 3,
+                "text": "C) Esperar en el mismo lugar hasta tener luz verde"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 51,
+        "title": "1711. Si el vehículo sufre una falla ¿Qué debo hacer?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Poner las luces de estacionamiento."
+            },
+            {
+                "id": 2,
+                "text": "B) Poner luces de viraje."
+            },
+            {
+                "id": 3,
+                "text": "C) Poner el triángulo de emergencia."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 52,
+        "title": "1712. ¿Cuál es la recomendación para evitar la fatiga en viajes largos?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Conducir sin descanso hasta llegar al destino para ahorrar tiempo."
+            },
+            {
+                "id": 2,
+                "text": "B) Tomar un descanso solo cuando sientas mucho cansancio."
+            },
+            {
+                "id": 3,
+                "text": "C) Descansar al menos 20 a 30 minutos cada 2 horas o 200 kilómetros de conducción."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 53,
+        "title": "1713. En zonas no urbanas y cuando la calzada tiene 2 o más pistas en un mismo sentido, la velocidad máxima permitida a los vehículos livianos es:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) 90km/h"
+            },
+            {
+                "id": 2,
+                "text": "B) 80km/h"
+            },
+            {
+                "id": 3,
+                "text": "C) 100km/h"
+            },
+            {
+                "id": 4,
+                "text": "D) 120km/h"
+            }
+        ],
+        "correctAnswer": [
+            4
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 54,
+        "title": "1714. ¿Cómo puede afectar un grado demasiado alto de estrés a una persona conductora?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Aumenta la flexibilidad mental y física, facilitando la toma de decisiones."
+            },
+            {
+                "id": 2,
+                "text": "B) Mejora la concentración y la capacidad de reacción."
+            },
+            {
+                "id": 3,
+                "text": "C) Puede provocar reacciones impulsivas y reducir el campo de atención."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 55,
+        "title": "1715. ¿Cuál es la primera señal de cansancio que puede experimentar una persona al conducir?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Sensación de pereza y primeros bostezos"
+            },
+            {
+                "id": 2,
+                "text": "B) Aceleración de la velocidad de conducción"
+            },
+            {
+                "id": 3,
+                "text": "C) Aumento de la concentración"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 56,
+        "title": "1716. ¿A qué se debe la emisión de humos visibles por el tubo de escape?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Tubo de escape roto."
+            },
+            {
+                "id": 2,
+                "text": "B) Mala combustión del motor."
+            },
+            {
+                "id": 3,
+                "text": "C) Falta de aceite."
+            },
+            {
+                "id": 4,
+                "text": "D) Esta quemando bien el combustible."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 57,
+        "title": "1717. Al conducir con remolque y éste comienza a zigzaguear, usted:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Suelte el acelerador lentamente hasta que recupere la estabilidad"
+            },
+            {
+                "id": 2,
+                "text": "B) Deténgase de inmediato para arreglar la carga del remolque"
+            },
+            {
+                "id": 3,
+                "text": "C) Suelte el acelerador y frenará en seco para evitar un accidente"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 58,
+        "title": "1718. Si un conductor tiene un accidente con un motociclista y este último queda consciente pero en shock, ¿Qué debería hacer el conductor del vehículo para ayudar?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Ayudarlo a pararse o a moverse"
+            },
+            {
+                "id": 2,
+                "text": "B) Sacarle el casco para que el motociclista pueda respirar mejor"
+            },
+            {
+                "id": 3,
+                "text": "C) Llamar a los equipos de emergencia y no sacarle el casco"
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 59,
+        "title": "1719. ¿Cuál de las siguientes circunstancias relacionadas con la persona conductora puede aumentar el riesgo de fatiga al volante?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Conducir mucho tiempo seguido sin descansar adecuadamente"
+            },
+            {
+                "id": 2,
+                "text": "B) Conducir a una velocidad moderada y en condiciones de alerta."
+            },
+            {
+                "id": 3,
+                "text": "C) Tomar descansos frecuentes y mantener una postura adecuada."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 60,
+        "title": "1720. ¿En qué situación usted no avanzará teniendo luz verde?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Cuando no exista vía libre a lo menos en 10 metros"
+            },
+            {
+                "id": 2,
+                "text": "B) Cuando no exista vía libre a lo menos en 5 metros"
+            },
+            {
+                "id": 3,
+                "text": "C) Cuando efectúe un viraje"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 61,
+        "title": "1721. Al pisar el pedal de embrague la pierna debe quedar:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Estirada"
+            },
+            {
+                "id": 2,
+                "text": "B) Rígida"
+            },
+            {
+                "id": 3,
+                "text": "C) Ligeramente flexionada."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 62,
+        "title": "1722. ¿Qué es lo que (NO deberías hacer) al momento de auxiliar a una persona lesionada en un accidente de tránsito?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Si la persona lesionada tiene un brazo o una pierna sangrando, se deberá elevar la extremidad para reducir el sangramiento"
+            },
+            {
+                "id": 2,
+                "text": "B) Si el accidentado es un motociclista con casco, se deberá quitárselo para permitir que pueda respirar con solvencia y tranquilidad"
+            },
+            {
+                "id": 3,
+                "text": "C) Se debe aplicar presión manual firme sobre la herida, usando de preferencia un material limpio, sin presionar algún cuerpo extraño en ésta"
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 63,
+        "title": "1723. ¿Qué efecto tiene conducir de noche en una carretera recta y sin tráfico durante muchos kilómetros?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Favorece la somnolencia, aumentando el riesgo de accidentes."
+            },
+            {
+                "id": 2,
+                "text": "B) No tiene ningún efecto sobre el nivel de somnolencia de la persona conductora."
+            },
+            {
+                "id": 3,
+                "text": "C) Mantiene a la persona conductora alerta y activa."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 64,
+        "title": "1724. ¿Por qué es necesario y obligatorio utilizar el cinturón de seguridad cuando el vehiculo lo tiene instalado?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Porque reduce casi a la mitad la probabilidad de que un accidente sea mortal"
+            },
+            {
+                "id": 2,
+                "text": "B) Porque no absorbe la energía del impacto en caso de accidente"
+            },
+            {
+                "id": 3,
+                "text": "C) El cinturon solo es obligatorio cuando el vehiculo no tiene airbag"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 65,
+        "title": "1725. De noche, en una zona rural, por emergencia usted estaciona su vehículo al costado de la vía. ¿En qué circunstancia debe usted encender sus luces de estacionamiento?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Cuando la berma no es suficientemente ancha y parte del vehículo queda sobre la calzada."
+            },
+            {
+                "id": 2,
+                "text": "B) Cuando el camino es de tierra."
+            },
+            {
+                "id": 3,
+                "text": "C) Siempre."
+            },
+            {
+                "id": 4,
+                "text": "D) Cuando el centro de la calzada está demarcado con línea blanca continua."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 66,
+        "title": "1726. En el caso de reincidencia 3 veces en la conducción en estado de ebriedad, o bajo la influencia de sustancias estupefacientes o sicotrópicas, el juez debe decretar la cancelación de la licencia del conductor infractor cuando estime que su conducción ofrece peligro para el tránsito o para la seguridad pública. ¿Es esta afirmación verdadera?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Si, pero solo en caso de haber lesiones gravísimas"
+            },
+            {
+                "id": 2,
+                "text": "B) No."
+            },
+            {
+                "id": 3,
+                "text": "C) Sí."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 67,
+        "title": "1727. Enciendo mis luces de estacionamiento:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Cuando estoy en terreno con alumbrado."
+            },
+            {
+                "id": 2,
+                "text": "B) Cuando estaciono en mi casa."
+            },
+            {
+                "id": 3,
+                "text": "C) Cuando estaciono en vía pública sin alumbrado."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 68,
+        "title": "1728. ¿Cuál de los siguientes elementos influye al momento de elegir un Sistema de Retención Infantil (SRI)?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) El peso, la altura y la edad del niño"
+            },
+            {
+                "id": 2,
+                "text": "B) Que cumpla con las normas reconocidas"
+            },
+            {
+                "id": 3,
+                "text": "C) El sexo del niño y que sea de fácil instalación"
+            }
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 69,
+        "title": "1729. ¿Cuál de los siguientes efectos pueden tener los psicofármacos en la capacidad para conducir?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Mejoran la concentración y el estado de alerta al conducir."
+            },
+            {
+                "id": 2,
+                "text": "B) Pueden alterar las capacidades necesarias para una conducción segura."
+            },
+            {
+                "id": 3,
+                "text": "C) No tienen ningún efecto en la conducción."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 70,
+        "title": "1730. ¿Cuál de estas imágenes te indica que más adelante hay una zona de curvas?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Señal 3"
+            },
+            {
+                "id": 2,
+                "text": "B) Señal 1"
+            },
+            {
+                "id": 3,
+                "text": "C) Señal 2"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 71,
+        "title": "1731. Si usted es el conductor que va manejando en sentido contrario al vehículo que se observa en la imagen, ¿Qué debería hacer al enfrentarse a esta situación?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Dejar pasar primero al vehículo que viene en contra y luego continuar pasando junto a los peatones"
+            },
+            {
+                "id": 2,
+                "text": "B) Reducir su velocidad y continuar conduciendo"
+            },
+            {
+                "id": 3,
+                "text": "C) Hacer señales a los peatones para que se alejen de la calzada"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 72,
+        "title": "1732. ¿Qué efecto tiene un sueño de baja calidad en una persona al día siguiente?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) La persona se sentirá completamente descansada y alerta."
+            },
+            {
+                "id": 2,
+                "text": "B) La persona estará cansada y somnolienta, lo que afectará su capacidad para conducir."
+            },
+            {
+                "id": 3,
+                "text": "C) La persona no experimentará ninguna diferencia en su estado de alerta."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 73,
+        "title": "1733. Es recomendable en las curvas:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Apagar las luces para no escandalizar."
+            },
+            {
+                "id": 2,
+                "text": "B) Cambiar a luces altas."
+            },
+            {
+                "id": 3,
+                "text": "C) Cambiar a luces bajas."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 74,
+        "title": "1734. De acuerdo a la normativa del uso de luces, usted al circular en ningún caso podrá hacerlo con:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Luces de estacionamiento apagadas"
+            },
+            {
+                "id": 2,
+                "text": "B) Luces altas en zona rural"
+            },
+            {
+                "id": 3,
+                "text": "C) Luces altas encendidas en zona urbana"
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 75,
+        "title": "1735. ¿Cuáles de las siguientes circunstancias en el vehículo pueden favorecer la aparición de la fatiga al volante?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Buena ventilación y un asiento ergonómico."
+            },
+            {
+                "id": 2,
+                "text": "B) Mala ventilación, altas temperaturas, y un diseño poco ergonómico del asiento."
+            },
+            {
+                "id": 3,
+                "text": "C) Conducir con el aire acondicionado en funcionamiento y con una suspensión nueva."
+            }
+        ],
+        "correctAnswer": [
+            2
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 76,
+        "title": "1736. La maniobra de adelantamiento es:",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Maniobra efectuada por el costado izquierdo del eje de la calzada, mediante la cual un vehículo se sitúa delante de otro u otros que le antecedían."
+            },
+            {
+                "id": 2,
+                "text": "B) Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada."
+            },
+            {
+                "id": 3,
+                "text": "C) Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido"
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 77,
+        "title": "1737. ¿Qué debería hacer usted para corregir un coletazo de las ruedas traseras?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Girar el volante hacia el lado que se desplaza la cola del vehículo."
+            },
+            {
+                "id": 2,
+                "text": "B) No girar el volante del vehículo para nada."
+            },
+            {
+                "id": 3,
+                "text": "C) Aplicar su freno de mano."
+            },
+            {
+                "id": 4,
+                "text": "D) Girar el volante hacia el lado opuesto al coletazo."
+            }
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 78,
+        "title": "1738. ¿Cuál de los siguientes efectos es causado por el cansancio y el sueño en la conducción?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Reducción de errores al tomar decisiones al volante."
+            },
+            {
+                "id": 2,
+                "text": "B) Mejor concentración en el tránsito y menor número de distracciones."
+            },
+            {
+                "id": 3,
+                "text": "C) Aumento del tiempo de reacción y mayor riesgo de colisiones."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    },
+    {
+        "id": 79,
+        "title": "1739. ¿Cuándo usaría usted las luces de advertencia de peligro de su vehículo?",
+        "options": [
+            {
+                "id": 1,
+                "text": "A) Cuando esté siendo remolcado."
+            },
+            {
+                "id": 2,
+                "text": "B) Cuando esté retrocediendo en una calle de poco tránsito."
+            },
+            {
+                "id": 3,
+                "text": "C) Cuando esté en pana y obstaculizando el tránsito."
+            },
+            {
+                "id": 4,
+                "text": "D) Cuando esté en pana moviéndose lentamente."
+            }
+        ],
+        "correctAnswer": [
+            3
+        ],
+        "image": "https://practicatest.com/static/img/test/CL/eba6e45887bfc49ae14017f7bd782152.jpg"
+    }
+]
